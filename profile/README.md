@@ -81,7 +81,6 @@
 
 ## ERD
 <img width="1320" height="666" alt="스크린샷 2025-09-04 04 33 43" src="<img width="2458" height="1210" alt="image" src="https://github.com/user-attachments/assets/e485581b-bccd-4bbf-be32-340dc9772bd9" />
-" />
 
 ---
 
